@@ -1,0 +1,6 @@
+.DS_Store
+*.dSYM/
+build/
+ClaudeTemplate.png
+ClaudeTemplate@2x.png
+ClaudeTemplate@3x.png
